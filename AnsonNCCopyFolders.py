@@ -10,8 +10,6 @@ def copyFolder(src, dest, startsWith):
         folderArr.sort()
 
     arrLen = len(folderArr)
-    count = 1
-    errorCount = 0
 
     for i in range(arrLen):
         srcTemp = src + "\\"+ str(folderArr[i])
