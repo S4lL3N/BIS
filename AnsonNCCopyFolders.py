@@ -33,6 +33,7 @@ def main():
 
     #copyFolder(srcTeePath, destTeePath, "000") #took 35.4 minutes (4785)
     #copyFolder(srcTorPath, destTorPath, "000") #took40.58 minutes (4841)
+    #copying 9626 folders took 75.98 minutes or 1 hour and 15.98 minutes.
 
     # end timer
     stop = timeit.default_timer()
