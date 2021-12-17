@@ -1,0 +1,67 @@
+=================================================================================================================
+***LOGFILE***
+
+Grantees
+Error Duplicate Folder Found: 413 shelby
+Error Duplicate Folder Found: 108 walden
+Error Duplicate Folder Found: 233 stogner
+Error Duplicate Folder Found: 086 ormsby
+Error Duplicate Folder Found: 080 williamson
+
+Done renaming 4785 folders in 1.0 minutes, 5 Duplicates Found. (tees)
+
+
+Grantors
+Error Duplicate Folder Found: 070 arrenton
+Error Duplicate Folder Found: 416 bloomfield
+Error Duplicate Folder Found: 057 worley
+Error Duplicate Folder Found: 396 hargrave
+Error Duplicate Folder Found: 168 bocobo
+Error Duplicate Folder Found: 236 polkton recreational enterprises inc
+Error Duplicate Folder Found: 175 miles
+Error Duplicate Folder Found: 206 britt
+Error Duplicate Folder Found: 218 hill
+Error Duplicate Folder Found: 023 clutts
+Error Duplicate Folder Found: 438 carolina model home corporation
+Error Duplicate Folder Found: 347 homemaker's mortgage service
+
+Done renaming 4841 folders in 1.09 minutes, 12 Duplicates Found. (tors)
+___________________________________________________________________
+
+Done renaming 9626 folders in 75.98 minutes, 17 Duplicates Found. (total)
+Done renaming 13391 files in 3.81 minutes. (tees)
+Done renaming 14169 files in 3.56 minutes. (tors)
+Done rotating 1 images in 7.63 minutes. (tees)
+Done rotating 47 images in 8.71 minutes. (tors)
+
+
+Script ran in 99.66 minutes
+=================================================================================================================
+MERGING DUPLICATES
+
+Grantees
+merge shelby --DONE
+merge walden --DONE
+merge ormsby has dupe images --DONE
+merge williamson --REORDER--DONE
+
+Grantors
+merge arrenton -- DONE weird ordering
+merge bloomfield one has a "noentry.tif" --DONE
+merge worley -- DONE
+merge hargrave -- DONE
+merge bocobo one has "noentry.tif" --DONE
+merge polkton recreational enterprises inc --DONE
+merge miles -- DONE
+merge britt -- DONE
+merge hill reorder the images --NEEDS TO BE REORDERED
+merge carolina model home corporation -- DONE
+merge homemaker's mortgage service one has a "noentry.tff" -- DONE
+merge clutts-- NEEDS TO BE REORDERED -- DONE
+merge stogner has 1 dupe image -- DONE
+
+==================================================================================================================
+OTHER
+
+dupe clutts so that clutts and klutts have a folder
+clean up stone corp(merge all into one folder)
