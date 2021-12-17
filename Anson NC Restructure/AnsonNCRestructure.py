@@ -10,8 +10,9 @@ Discription:
     This script is for the Anson NC server restructure. They wanted to change the web
 lookup for grantors and grantees from 1749-1989 to make it more user friendly. Requested that the
 folder structure be based on names. The script needs the source folder path and the destination folder
-path, then will copy subfolders and files from source to destination, rename the folders, rename the (images)
-files and rotate images that are in the wrong orientation.   
+path, then will copy folders, subfolders, and files from source to destination, Merge corperations and
+civilians folders, rename the subfolders, rename the (images) files and rotate images that are in the
+wrong orientation.   
 """
 
 def copyFolder(src, dest, startsWith, logFile):
