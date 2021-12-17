@@ -2,7 +2,17 @@ import os
 from distutils.dir_util import copy_tree
 import timeit
 from PIL import Image
-
+"""
+Author:Shae Allen
+Version: 1.0.0
+date:12/15/21
+Discription: 
+    This script is for the Anson NC server restructure. They wanted to change the web
+lookup for grantors and grantees from 1749-1989 to make it more user friendly. Requested that the
+folder structure be based on names. The script needs the source folder path and the destination folder
+path, then will copy subfolders and files from source to destination, rename the folders, rename the (images)
+files and rotate images that are in the wrong orientation.   
+"""
 
 def copyFolder(src, dest, startsWith, logFile):
     start = timeit.default_timer()
@@ -96,6 +106,8 @@ def rotateImage(path, logFile):
                 count += 1
                 rotated = img.transpose(Image.ROTATE_270)
                 rotated.save(pathToFile)
+                print("Rotated # " + str(count) +": " + str(pathToFile))
+                logFile.write("Rotated: " + str(pathToFile))
     stop = timeit.default_timer()
     time = str(round((stop - start) / 60,2))
     print("Done rotating "+ str(count) +" images in " + time + " minutes.")
@@ -106,25 +118,33 @@ def main():
     start = timeit.default_timer()
 
     #log file
-    logfile = open("Log.txt","w+")
+    logfile = open("AnsonNCRestructureLog.txt","w+")
 
     #paths
     srcTeePath = "\\\\rodtest\\img\\index\\land\\grantee\\1749-july 1989"
     srcTorPath = "\\\\rodtest\\img\\index\\land\\grantor\\1749-july 1989"
-    destTeePath = '\\\\rodtest\img\\index\\1749-1989_land\\tee\\0001\\'
-    destTorPath = '\\\\rodtest\img\\index\\1749-1989_land\\tor\\0001\\'
+    destTeePath = '\\\\rodtest\\img\\index\\1749-1989_land\\tee\\0001\\'
+    destTorPath = '\\\\rodtest\\img\\index\\1749-1989_land\\tor\\0001\\' 
 
-    #copyFolder(srcTeePath, destTeePath, "000", logFile) # took 35.4 minutes (4785)
-    #copyFolder(srcTorPath, destTorPath, "000", logFile) # took40.58 minutes (4841)
-    #Notes -- copying 9626 folders took 75.98 minutes or 1 hour and 15.98 minutes.
+    fileStartWith = "000"
 
-    
-    testPath = "C:\\Users\\S4lL3\\OneDrive\\Desktop\\0001"
-
-    
-    renameSubfolders(testPath, logfile)
-    renameImages(testPath, logfile)
-    rotateImage(testPath, logfile)
+    copyFolder(srcTeePath, destTeePath, fileStartWith, logfile) 
+    # Notes -- Copying 4785 folders in 35.4 minutes.
+    copyFolder(srcTorPath, destTorPath, fileStartWith, logfile) 
+    # Notes -- Copying 4841 folders in 40.58 minutes.
+    # Notes -- Total copying 9626 folders in 75.98 minutes.(Both tee & tor)
+    renameSubfolders(destTeePath, logfile)
+    # Notes -- renamed 4785 folders in 1.0 minutes, 5 Duplicates Found.
+    renameSubfolders(destTorPath, logfile)
+    # Notes -- renamed 4841 folders in 1.09 minutes, 12 Duplicates Found.
+    renameImages(destTeePath, logfile)
+    # Notes -- renamed 13391 files in 3.81 minutes.
+    renameImages(destTorPath, logfile)
+    # Notes -- renamed 14169 files in 3.56 minutes.
+    rotateImage(destTeePath, logfile)
+    # Notes -- rotated 1 images in 7.63 minutes.
+    rotateImage(destTorPath, logfile)
+    # Notes -- rotated 47 images in 8.71 minutes.
 
     # end timer
     stop = timeit.default_timer()
