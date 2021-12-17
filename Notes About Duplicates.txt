@@ -60,6 +60,8 @@ merge homemaker's mortgage service one has a "noentry.tff" -- DONE
 merge clutts-- NEEDS TO BE REORDERED -- DONE
 merge stogner has 1 dupe image -- DONE
 
+==================================================================================================================
+OTHER
 
-dupe clutts and klutts***
+dupe clutts so that clutts and klutts have a folder
 clean up stone corp(merge all into one folder)
