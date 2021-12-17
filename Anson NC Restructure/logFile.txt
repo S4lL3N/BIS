@@ -1,0 +1,35 @@
+Grantees
+Error Duplicate Folder Found: 413 shelby
+Error Duplicate Folder Found: 108 walden
+Error Duplicate Folder Found: 233 stogner
+Error Duplicate Folder Found: 086 ormsby
+Error Duplicate Folder Found: 080 williamson
+
+Done renaming 4785 folders in 1.0 minutes, 5 Duplicates Found.
+
+Grantors
+Error Duplicate Folder Found: 070 arrenton
+Error Duplicate Folder Found: 416 bloomfield
+Error Duplicate Folder Found: 057 worley
+Error Duplicate Folder Found: 396 hargrave
+Error Duplicate Folder Found: 168 bocobo
+Error Duplicate Folder Found: 236 polkton recreational enterprises inc
+Error Duplicate Folder Found: 175 miles
+Error Duplicate Folder Found: 206 britt
+Error Duplicate Folder Found: 218 hill
+Error Duplicate Folder Found: 023 clutts
+Error Duplicate Folder Found: 438 carolina model home corporation
+Error Duplicate Folder Found: 347 homemaker's mortgage service
+
+Done renaming 4841 folders in 1.09 minutes, 12 Duplicates Found.
+
+Done renaming 9626 folders in 75.98 minutes, 17 Duplicates Found. (total)
+Done renaming 13391 files in 3.81 minutes. (tees)
+Done renaming 14169 files in 3.56 minutes. (tors)
+Done rotating 1 images in 7.63 minutes. (tees)
+Done rotating 47 images in 8.71 minutes. (tors)
+
+
+Script ran in 99.66 minutes
+
+
