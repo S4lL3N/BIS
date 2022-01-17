@@ -1,0 +1,5 @@
+C:\Users\S4lL3\Documents\Code Library\C#\SQLGenerator.exe
+C:\Users\S4lL3\Documents\Code Library\C#\SQLGenerator.dll
+C:\Users\S4lL3\Documents\Code Library\C#\SQLGenerator.deps.json
+C:\Users\S4lL3\Documents\Code Library\C#\SQLGenerator.runtimeconfig.json
+C:\Users\S4lL3\Documents\Code Library\C#\SQLGenerator.pdb
