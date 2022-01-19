@@ -1,5 +1,0 @@
-C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\MySQLGenerator2\SQLGenerator.exe
-C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\MySQLGenerator2\SQLGenerator.dll
-C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\MySQLGenerator2\SQLGenerator.deps.json
-C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\MySQLGenerator2\SQLGenerator.runtimeconfig.json
-C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\MySQLGenerator2\SQLGenerator.pdb
