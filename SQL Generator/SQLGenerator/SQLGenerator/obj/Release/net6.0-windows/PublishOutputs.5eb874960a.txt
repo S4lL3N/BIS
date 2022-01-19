@@ -1,0 +1,5 @@
+C:\Users\shae.allen\Desktop\SQL Generator\MySQLGenerator\SQLGenerator.exe
+C:\Users\shae.allen\Desktop\SQL Generator\MySQLGenerator\SQLGenerator.dll
+C:\Users\shae.allen\Desktop\SQL Generator\MySQLGenerator\SQLGenerator.deps.json
+C:\Users\shae.allen\Desktop\SQL Generator\MySQLGenerator\SQLGenerator.runtimeconfig.json
+C:\Users\shae.allen\Desktop\SQL Generator\MySQLGenerator\SQLGenerator.pdb

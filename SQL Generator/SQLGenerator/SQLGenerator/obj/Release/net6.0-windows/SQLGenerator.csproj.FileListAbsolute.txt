@@ -1,0 +1,34 @@
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.exe
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.deps.json
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.runtimeconfig.json
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.dll
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\ref\SQLGenerator.dll
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.pdb
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.csproj.AssemblyReference.cache
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.Form1.resources
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.csproj.GenerateResource.cache
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.AssemblyInfoInputs.cache
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.AssemblyInfo.cs
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.csproj.CoreCompileInputs.cache
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.dll
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\ref\SQLGenerator.dll
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.pdb
+C:\Users\S4lL3\Documents\Code Library\C#\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.genruntimeconfig.cache
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.exe
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.deps.json
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.runtimeconfig.json
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.dll
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\ref\SQLGenerator.dll
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\bin\Release\net6.0-windows\SQLGenerator.pdb
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.csproj.AssemblyReference.cache
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.Form1.resources
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.csproj.GenerateResource.cache
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.AssemblyInfoInputs.cache
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.AssemblyInfo.cs
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.csproj.CoreCompileInputs.cache
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.dll
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\ref\SQLGenerator.dll
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.pdb
+C:\Users\shae.allen\Desktop\SQL Generator\SQLGenerator\SQLGenerator\obj\Release\net6.0-windows\SQLGenerator.genruntimeconfig.cache
